@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on PHP open source projects
 - 📫 How to reach me: work.taleghani on gmail
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
+[![MMTE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
+
+[![MMTE's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
+
+![MMTE's Wakatime stats](https://wakatime.com/share/@mmte/edded1bd-90b9-467b-ba91-d17f4b1ad797.png)
 
 <!---
 MMTE/MMTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
