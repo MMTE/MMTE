@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Mahdi
-- 👀 I’m interested in Web Development, PHP and React js
-- 🌱 I’m currently learning about AI and creating SaaS projects
+- 👀 I’m interested in Web Development, PHP, React js and React Native 
+- 🌱 I’m currently learning about AI and I'm creating SaaS projects
 - 💞️ I’m looking to collaborate on PHP open source projects
 - 📫 How to reach me: work.taleghani on gmail
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MMTE/MMTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
