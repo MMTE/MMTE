@@ -14,4 +14,4 @@ I'm a Full-Stack Developer with over 7 years of experience working on both front
 - **Tools:** Git, Figma, Adobe XD
 
 ### 📫 How to reach me:
-- **LinkedIn:** [https://www.linkedin.com/in/mahdi-taleghani/]
+**[LinkedIn](https://www.linkedin.com/in/mahdi-taleghani/)** 
