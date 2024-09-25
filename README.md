@@ -1,12 +1,17 @@
-- ``👋 Hi, I’m Mahdi``
-- 👀 I’m interested in Web Development, ``PHP``, ``React js`` and React Native 
-- 🌱 I’m currently learning about ``AI`` and I'm creating ``SaaS`` projects
-- 💞️ I’m looking to collaborate on PHP open source projects
-- 📫 How to reach me: work.taleghani on gmail
+# 👋 Hi, I'm Mahdi
 
-[![MMTE's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmte)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Full-Stack Developer with over 7 years of experience working on both frontend and backend technologies. I’m passionate about building scalable software platforms, optimizing workflows, and continuous learning. I have hands-on experience with **React.js**, **Node.js**, **PostgreSQL**, **Docker**, **Kubernetes**, and cloud platforms. 
 
-<!---
-MMTE/MMTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💼 What I do:
+- 🔧 Full-stack development using **React.js**, **Node.js**, and **Flask**
+- 🖥️ Backend solutions with **Docker Swarm**, **Kubernetes**, and **AWS**
+- 💡 Solving real-world problems with **CRM**, **e-commerce**, and **scalable solutions**
+
+### 🛠️ Key Technologies:
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, PHP Laravel, Flask, PostgreSQL, MySQL
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Tools:** Git, Figma, Adobe XD
+
+### 📫 How to reach me:
+- **LinkedIn:** [https://www.linkedin.com/in/mahdi-taleghani/]
