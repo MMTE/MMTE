@@ -1,17 +1,13 @@
 # 👋 Hi, I'm Mahdi
 
-I'm a Full-Stack Developer with over 7 years of experience working on both frontend and backend technologies. I’m passionate about building scalable software platforms, optimizing workflows, and continuous learning. I have hands-on experience with **React.js**, **Node.js**, **PostgreSQL**, **Docker**, **Kubernetes**, and cloud platforms. 
+Creative T-shaped software developer turning business ideas into scalable startups.
+Guiding principle: Deliver value in all I do.
 
-### 💼 What I do:
-- 🔧 Full-stack development using **React.js**, **Node.js**, and **Flask**
-- 🖥️ Backend solutions with **Docker Swarm**, **Kubernetes**, and **AWS**
-- 💡 Solving real-world problems with **CRM**, **e-commerce**, and **scalable solutions**
+Full-Stack Developer building and scaling web applications with React.js, Node.js, PostgreSQL, and containerized environments. I specialize in solutions that improve productivity and drive business results.
 
-### 🛠️ Key Technologies:
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript
-- **Backend:** Node.js, PHP Laravel, Flask, PostgreSQL, MySQL
-- **DevOps:** Docker, Kubernetes, CI/CD
-- **Tools:** Git, Figma, Adobe XD
+My experience spans backend optimization, DevOps and full-stack product development — from architecting multi-tenant CRMs to automating infrastructure with Kubernetes and Docker Swarm. I’ve co-founded an LMS platform, led e-commerce integrations, and optimized performance for clients.
+
+Key Skills: React.js | Node.js | TypeScript | Express.js | PostgreSQL | Docker | Kubernetes | CI/CD
 
 ### 📫 How to reach me:
 **[LinkedIn](https://www.linkedin.com/in/mahdi-taleghani/)** 
