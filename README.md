@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Mahdi
+# 👋 Hi, I'm Mahdi Taleghani
 
-Creative T-shaped software developer turning business ideas into scalable startups.
-Guiding principle: Deliver value in all I do.
+**Full-Stack Platform & SaaS Engineer · Founder of [TDH](https://tdh.ir)**
 
-Full-Stack Developer building and scaling web applications with React.js, Node.js, PostgreSQL, and containerized environments. I specialize in solutions that improve productivity and drive business results.
+T-shaped software developer turning business ideas into scalable SaaS products. I build the layer that turns messy infrastructure into a product non-experts can use — billing kernels, AI gateways, provisioning platforms, and developer-first tooling. Building production software since 2016.
 
-My experience spans backend optimization, DevOps and full-stack product development — from architecting multi-tenant CRMs to automating infrastructure with Kubernetes and Docker Swarm. I’ve co-founded an LMS platform, led e-commerce integrations, and optimized performance for clients.
+**Skills:** TypeScript · React · Node.js · PHP/Laravel · PostgreSQL · Docker · Kubernetes · Multi-tenant SaaS · Billing & metering · Provisioning
 
-Key Skills: React.js | Node.js | TypeScript | Express.js | PostgreSQL | Docker | Kubernetes | CI/CD
+📍 Tehran, Iran — open to relocation: Berlin, Dublin, Stockholm / EU
 
-### 📫 How to reach me:
-**[LinkedIn](https://www.linkedin.com/in/mahdi-taleghani/)** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdi--taleghani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-taleghani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mmte.github.io-181717?logo=github&logoColor=white)](https://mmte.github.io)
+[![Email](https://img.shields.io/badge/Email-REDACTED-EA4335?logo=gmail&logoColor=white)](mailto:REDACTED)
